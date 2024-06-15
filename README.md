@@ -6,4 +6,6 @@
 
 #Sobre mi
 
-- Cybersegurity 
+- Future in Cybersegurity
+- Programmer: level medium
+- 
