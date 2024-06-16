@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif">
+<img src="https://imgur.com/b81c7f60-9435-4070-9446-9addb488d057">
 </div>
 #Sobre mi
 
