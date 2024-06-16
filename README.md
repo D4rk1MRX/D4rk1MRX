@@ -16,7 +16,7 @@
 ## Connect with me ☕ :
 
 <br>
-<img src="https://i.imgur.com/8v1ZSC5.png" width="200px" height="200"/>
+<img src="https://i.imgur.com/8v1ZSC5.png" width="50px" height="200"/>
 
 <br>
 
