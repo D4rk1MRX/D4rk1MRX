@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://imgur.com/leCXOu6">
+<img src="https://i.imgur.com/QJ5XNAW.gif">
 </div>
 #Sobre mi
 
