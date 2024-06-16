@@ -16,8 +16,7 @@
 ## Connect with me ☕ :
 
 <br>
-
-[![@anushkawijegoonawardana97](https://i.imgur.com/8v1ZSC5.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) 
+<img src="https://i.imgur.com/8v1ZSC5.png" width="200"/>
 
 <br>
 
