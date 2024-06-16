@@ -28,7 +28,7 @@
 
 <img src="https://img.icons8.com/?size=100&id=55311&format=png&color=000000" width="52" height="52"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" width="52" height="52"/> <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" width="52" height="52"/> <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="52" height="52"/> 
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/?size=100&id=v551nqGeHhGn&format=png&color=000000" width="52" height="52"/> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="52" height="52"/> 
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" width="52" height="52"/> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="52" height="52"/> 
 
 <br>
 
