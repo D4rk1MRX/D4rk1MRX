@@ -2,7 +2,7 @@
   <strong><h1 align="center">Hola soy <a href="">D4rk1MRX</a></h1></b></strong>
 </div>
 
-<img src="https://i.imgur.com/4Gz7K22.jpeg">
+<img src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif">
 
 #Sobre mi
 
