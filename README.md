@@ -1,6 +1,6 @@
 <div align="center" width="50">
     <img alt="wijegoonawardana.com" src="https://media1.tenor.com/m/tm3KA5yrnmMAAAAd/hacker-man-hacker.gif"/>
-    <video autoplay loop controls>
+    <video autoplay loop>
           <source src="D4rk1MRX/Videito-2.mp4" type="video/mp4">
     </video>
 </div>
