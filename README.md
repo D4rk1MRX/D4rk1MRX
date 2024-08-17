@@ -49,11 +49,4 @@
 
 <br>
 
-## Activity Graph 📊 :
-
-<br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=D4rk1MRX&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/D4rk1MRX/github-readme-activity-graph)
-
----
-Last edited on: 30/06/2022
+Last edited on: 16/08/2024
